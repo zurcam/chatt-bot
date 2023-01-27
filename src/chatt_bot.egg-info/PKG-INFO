@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: chatt-bot
+Version: 0.0.0
+Summary: Tool that allows people to explore Chattanooga.
+Author: Manuel Cruz
+Maintainer-email: Manuel Cruz <cruz.manuel62@gmail.com>
+Keywords: Chattanooga,Help Bot
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# chatt-bot
+Bot that offers insight into all things Chattanooga
